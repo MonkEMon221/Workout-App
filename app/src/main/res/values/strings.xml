@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Workout App</string>
+    <string name="start">START</string>
+    <string name="image">image</string>
+    <string name="get_ready">GET READY TO EXERCISE IN....</string>
+    <string name="exercise_image">exercise image</string>
+    <string name="upcoming_exercise">UPCOMING EXERCISE:</string>
+    <string name="end">END</string>
+    <string name="start_image">start Image</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="workout_complete">Workout Complete!!</string>
+    <string name="finish">FINISH</string>
+    <string name="are_you_sure">Are You Sure?</string>
+    <string name="this_will_stop_your_workout_are_you_sure_you_want_to_quit">This will stop your workout. Are you sure you want to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">NO</string>
+    <string name="bmi">BMI</string>
+    <string name="calculate">CALCULATOR</string>
+    <string name="weight_in_kgs">WEIGHT (in Kgs)</string>
+    <string name="height_in_cm">HEIGHT (in cm)</string>
+    <string name="your_bmi">YOUR BMI</string>
+    <string name="calculateBMI">CALCULATE</string>
+    <string name="metric_units">METRIC UNITS</string>
+    <string name="us_units">US UNITS</string>
+    <string name="feet">HEIGHT(feet)</string>
+    <string name="inch">(inch)</string>
+    <string name="weight_in_pounds">WEIGHT (in pounds)</string>
+    <string name="history">HISTORY</string>
+</resources>

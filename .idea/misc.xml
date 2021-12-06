@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable-v24/item_circular_color_grey_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable-v24/item_circular_color_stargreen_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable-v24/item_circular_color_white_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable-v24/item_circular_thin_color_green_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable-v24/item_circular_thin_color_white_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/circular_progress_bar.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/circular_progress_bar_grey.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/drawable_unit_tab_selector.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/drawable_unit_tab_text_color_selector.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_circular_color_green_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_circular_color_grey_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_cirular_color_acccent_border.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.23697916666666666" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_bmiactivity.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_exercise.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_finish.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_history.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/dialog_custom_back_conformation.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/finish_activity.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/item_exercise_status.xml" value="0.6" />
+        <entry key="..\:/Users/Vishesh/AndroidStudioProjects/WorkoutApp/app/src/main/res/layout/item_history_row.xml" value="0.21666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
